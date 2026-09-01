@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage>
     {
       'name': 'Venska Fellicia Pertiwi',
       'email': 'venskafalensia@gmail.com',
-      'phone': '081225577794',
+      'phone': '08122557794',
     },
   ];
 
